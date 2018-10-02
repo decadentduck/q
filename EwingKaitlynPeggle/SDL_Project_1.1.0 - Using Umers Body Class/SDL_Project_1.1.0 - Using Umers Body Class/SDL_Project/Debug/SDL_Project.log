@@ -1,0 +1,31 @@
+﻿  Assignment1.cpp
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Assignment2.cpp
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.cpp(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.cpp(124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.cpp(132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.cpp(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Assignment3.cpp
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(146): warning C4305: '=': truncation from 'double' to 'float'
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(151): warning C4305: '=': truncation from 'double' to 'float'
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(156): warning C4305: '=': truncation from 'double' to 'float'
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(187): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(199): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(265): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(266): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Body.cpp
+  GameManager.cpp
+  MMath.cpp
+  Main.cpp
+  Overlord.cpp
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\overlord.cpp(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\download_\ewingkaitlynpeggle\sdl_project_1.1.0 - using umers body class\sdl_project_1.1.0 - using umers body class\sdl_project\overlord.cpp(30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Timer.cpp
+  VMath.cpp
+  Window.cpp
+  Generating Code...
+  SDL_Project.vcxproj -> D:\download_\EwingKaitlynPeggle\SDL_Project_1.1.0 - Using Umers Body Class\SDL_Project_1.1.0 - Using Umers Body Class\Debug\SDL_Project.exe
